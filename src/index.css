@@ -1,0 +1,26 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.Hero{
+    background-image: url('assets/Hero.png') !important;
+}
+
+.One{
+    background-image: url('assets/one.jpg') !important;
+}
+
+.Two{
+    background-image: url('assets/two.jpg') !important;
+}
+
+.Three{
+    background-image: url('assets/three.jpg') !important;
+}
+
+.Four{
+    background-image: url('assets/four.jpg') !important;
+}
