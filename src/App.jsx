@@ -3,7 +3,7 @@ import Button from "./components/Button";
 import Navbar from "./components/Navbar/Navbar";
 
 const App = () => {
-  let images = ['One', 'Two', 'Three', 'Four', 'Hero'];
+  let images = ['one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight'];
   let image = images[Math.floor(Math.random() * images.length)];
 
   let texts = ['Aberturas Inteligentes', 'Aberturas de Alta Prestación', 'Calidad, Confort y Elegancia para tus Aberturas'];

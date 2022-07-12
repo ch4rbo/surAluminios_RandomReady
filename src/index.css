@@ -5,22 +5,34 @@
 @tailwind utilities;
 
 
-.Hero{
-    background-image: url('assets/Hero.png') !important;
-}
-
-.One{
+.one{
     background-image: url('assets/one.jpg') !important;
 }
 
-.Two{
+.two{
     background-image: url('assets/two.jpg') !important;
 }
 
-.Three{
+.three{
     background-image: url('assets/three.jpg') !important;
 }
 
-.Four{
+.four{
+    background-image: url('assets/four.jpg') !important;
+}
+
+.five{
+    background-image: url('assets/five.jpg') !important;
+}
+
+.six{
+    background-image: url('assets/six.jpg') !important;
+}
+
+.seven{
+    background-image: url('assets/seven.jpg') !important;
+}
+
+.eight{
     background-image: url('assets/four.jpg') !important;
 }

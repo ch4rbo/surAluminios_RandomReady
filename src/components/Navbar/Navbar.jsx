@@ -22,7 +22,7 @@ const Navbar = () => {
           </li>
           <NavLinks />
           <Link to="/" className="py-7 px-3 inline-block">
-              Distribuidores
+              Galería
             </Link> 
         </ul>
         <div className="md:block hidden">
